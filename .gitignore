@@ -1,0 +1,9 @@
+# Ignore RubyMine
+/.idea
+/*.iml
+
+# ignore irb history
+.irb_history
+
+# Ignore Mac OS X files
+.DS_Store
